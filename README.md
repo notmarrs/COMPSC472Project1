@@ -28,7 +28,7 @@ The application provides error handling for various scenarios, such as invalid P
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.9
 - Tkinter (Python GUI library)
 - Multiprocessing and Threading for parallel execution
 - Subprocess for creating and managing processes
